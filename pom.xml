@@ -71,9 +71,9 @@
                             <transformers>
                                 <transformer
                                         implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <!-- MAIN CLASSINGNI BU YERGA YOZ -->
                                     <mainClass>org.mohirlar.Main</mainClass>
                                 </transformer>
+
                             </transformers>
                         </configuration>
                     </execution>
