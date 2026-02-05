@@ -65,7 +65,7 @@
 
                                     <!-- BU YERGA MAIN CLASS -->
 
-                                    <mainClass>org.example.Main</mainClass>
+                                    <mainClass>org.mohirlar.Main</mainClass>
 
                                 </transformer>
                             </transformers>
