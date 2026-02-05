@@ -25,13 +25,13 @@ public class MyBot extends TelegramLongPollingBot {
     @Override
     public String getBotUsername() {
         // Bot username @siz ham ishlaydi, lekin odatda @siz yoziladi
-        return "BronHotel_bot";
+        return "@dasturxon_24Bot";
     }
 
     @Override
     public String getBotToken() {
         // Tokenni kodinga qotirib qo'ymaslik tavsiya
-        return "8341379198:AAHaxZg5d01VVxZLlCU314CCbb23ECRm578";
+        return "7928952266:AAGZJf0G8AFM5XvhvhJgkRw5MbfLuCkTwu4";
     }
 
     @Override
