@@ -20,7 +20,7 @@ public class MyBot extends TelegramLongPollingBot {
     private final UserRepository userRepository = new UserRepository();
 
     // Web App URL (HTTPS bo‘lishi kerak)
-    private static final String WEB_APP_URL = "https://sayting.uz";
+    private static final String WEB_APP_URL = "https://dasturxon-front-production.up.railway.app";
 
     @Override
     public String getBotUsername() {
